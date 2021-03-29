@@ -30,3 +30,6 @@ plt.grid()
 
 plt.show()
 
+
+
+ddd
